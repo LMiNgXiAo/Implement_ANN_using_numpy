@@ -1,1 +1,2 @@
-This is a mini tensor flow.
+This folder contains the RNN/CNN/DNN codes, and mini tensorflow implemented by using pure numpy.
+
